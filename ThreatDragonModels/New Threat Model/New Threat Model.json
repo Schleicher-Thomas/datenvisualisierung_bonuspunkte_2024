@@ -1,0 +1,16 @@
+{
+  "version": "2.6.2-RC1",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "test",
+    "description": "test",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "test",
+    "threatTop": 0
+  }
+}
