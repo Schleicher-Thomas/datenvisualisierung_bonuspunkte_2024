@@ -1332,27 +1332,12 @@
             ],
             "id": "60d96098-0a54-4b92-a0a6-71bf754e35ce",
             "source": {
-              "x": -300,
-              "y": 420
+              "x": -360,
+              "y": 500
             },
             "target": {
               "x": -60,
               "y": 437
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead",
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead"
-              ],
-              "name": null
             }
           }
         ],
